@@ -26,7 +26,7 @@ The project involves comparing various machine learning models, including Logist
 The feature importance analysis identified hemoglobin, serum creatinine, and albumin as the top three crucial predictors of CKD.
 
 ## Medium Article
-For a detailed explanation of the project, methodologies, and results, please refer to the Medium article: [Predicting Chronic Kidney Disease using Machine Learning]([https://medium.com/your-article-link](https://medium.com/@j.pollyn/predicting-chronic-kidney-disease-using-machine-learning-57941b08f498))
+For a detailed explanation of the project, methodologies, and results, please refer to the Medium article: [Predicting Chronic Kidney Disease using Machine Learning](https://medium.com/@j.pollyn/predicting-chronic-kidney-disease-using-machine-learning-57941b08f498)
 
 ## Usage
 1. Clone the repository:
